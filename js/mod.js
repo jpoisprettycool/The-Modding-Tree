@@ -1,14 +1,14 @@
 let modInfo = {
 	name: "JPO's Stupid Upgrade Tree",
-	id: "mymod",
-	author: "nobody",
-	pointsName: "points",
+	id: "jsut",
+	author: "JPOisPrettyCool",
+	pointsName: "egg points fragments",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
-	offlineLimit: 1,  // In hours
+	offlineLimit: 0,  // In hours
 }
 
 // Set your version in num and name
